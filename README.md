@@ -1,6 +1,6 @@
 # Portfolio Mockup Website
 
-This is a mockup portfolio website built using React and Tailwind CSS. It shows my skills and projects in a visually appealing manner. It is available at: https://thomasleavy.github.io/Portfolio-Website/
+This repository contains a mockup portfolio website, built using React and Tailwind CSS. It shows my skills and projects in a visually appealing way. It is available at: https://thomasleavy.github.io/Portfolio-Website/
 
 ## Technologies Used
 - React
