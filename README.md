@@ -8,12 +8,10 @@ This is a mockup portfolio website built using React and Tailwind CSS. It shows 
 - JavaScript (ES6+)
 - HTML
 - CSS
+- Getform.io (for handling form submissions)
 
 ## Deployment
 The website has been deployed using GitHub Pages.
-
-## Contact Form
-The contact section of this website uses Getform.io for handling form submissions.
 
 ## Tools Used
 - Visual Studio Code (VSC)
