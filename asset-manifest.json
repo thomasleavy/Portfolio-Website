@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Website/static/css/main.8f31549e.css",
+    "main.js": "/Portfolio-Website/static/js/main.42252d01.js",
+    "static/media/realestate.jpg": "/Portfolio-Website/static/media/realestate.44fd19f4c6872731149c.jpg",
+    "static/media/workImg.jpeg": "/Portfolio-Website/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
+    "static/media/react.png": "/Portfolio-Website/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/aws.png": "/Portfolio-Website/static/media/aws.95bdee6b9922c9b94fd5.png",
+    "static/media/node.png": "/Portfolio-Website/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/Portfolio-Website/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/github.png": "/Portfolio-Website/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/Portfolio-Website/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/Portfolio-Website/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/Portfolio-Website/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/logo1.png": "/Portfolio-Website/static/media/logo1.ec00d8a9845c40849873.png",
+    "static/media/firebase.png": "/Portfolio-Website/static/media/firebase.209703cedf1b1a96bc52.png",
+    "static/media/javascript.png": "/Portfolio-Website/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/Portfolio-Website/index.html",
+    "main.8f31549e.css.map": "/Portfolio-Website/static/css/main.8f31549e.css.map",
+    "main.42252d01.js.map": "/Portfolio-Website/static/js/main.42252d01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f31549e.css",
+    "static/js/main.42252d01.js"
+  ]
+}
